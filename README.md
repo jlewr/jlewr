@@ -3,11 +3,11 @@
 
 I'm a product manager.
 
-- 🔭 I work at [**dxw**](https://github.com/dxw), helping public sector organisations to do good things for their users.
-- 🌱 I’m currently learning how to code apps in Swift, but I'm always interested in other things too.
+- 🔭 I work at [**the Welsh Revenue Authority (WRA)**](https://github.com/welsh-revenue-authority), helping public sector organisations to do good things for their users.
+- 🌱 I’m currently learning how to code via the Harvard CS50 2024 course. I'm also interested in learning to code apps in Swift, but I'm always interested in other things too.
 - 💬 Ask me about product management or language learning.
 - 😄 Pronouns: they/them, but anything is fine!
-- ⚡ Fun fact: I grew up speaking English (C2), but I'm fluent in Mandarin Chinese (C1?) and pretty good at Japanese (B1), Scottish Gaelic (B1) and Welsh (A2) too.
+- ⚡ Fun fact: I grew up speaking English (C2), but I'm fluent in Mandarin Chinese (C1?) and pretty good at Japanese (B2), Scottish Gaelic (B1) and Welsh (A2) too.
 
 <!--
 **jlewr/jlewr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
